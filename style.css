@@ -1,4 +1,3 @@
-
 .container{
     display: grid;
     grid-template-areas:
@@ -18,7 +17,7 @@
     .projects,
     .copyright {
       border: 1px;
-      border-color: rgb(125, 125, 153);
+      border-color: rgb(11, 11, 13);
       border-style:solid;
       padding: 5px;
       color: rgb(0, 0, 0);
@@ -106,7 +105,7 @@
 .about{
     font-family:Brushstroke;
     text-shadow:  1px 3px rgb(189, 212, 238);
-    color: rgb(34, 5, 61);
+    color: rgb(13, 2, 23);
 }
 .projects{
     font-family:Brushstroke;
@@ -119,3 +118,11 @@
     margin-right: auto;
     width: 170px;
   }
+img{
+  width: 400px;
+  height: 300px;
+}
+.links{
+  text-align: center;
+  font-family: Century Gothic;
+}
